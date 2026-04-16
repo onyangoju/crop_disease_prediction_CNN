@@ -1,0 +1,6 @@
+.venv/
+.vscode/
+data/
+documentation/notebook_colab.ipynb
+documentation/meth2.ipynb
+documentation/image_sample.png
