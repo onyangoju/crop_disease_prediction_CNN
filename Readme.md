@@ -2,6 +2,16 @@
 
 Deep learning project for multi-class classification of crop diseases using leaf images. Built as a capstone project under the NgaoLabs Data Science Training Program.
 
+Authors
+- Pauline Onyango
+- Jedidiah Waweru
+- Dave Karanja
+
+Deployment
+
+Live Application:
+https://cropdiseasespredictioncnn-d2sxrpgrmhfgxbcotwiczz.streamlit.app/
+
 ---
 
 ## Executive Summary
@@ -145,3 +155,4 @@ python -m venv .venv
 5. Install dependencies:  
 ```bash
 pip install -r requirements.txt
+
